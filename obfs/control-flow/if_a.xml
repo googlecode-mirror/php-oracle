@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<php:start xmlns:php="http://php.net/xsl">
+<php:top_statement_list id="81">
+<php:top_statement_list id="24">
+<php:top_statement_list id="0">
+</php:top_statement_list>
+<php:ACTION1 id="2">
+</php:ACTION1>
+<php:top_statement id="23">
+<php:statement id="22">
+<php:unticked_statement id="21">
+<php:expr id="19">
+<php:expr_without_variable id="18">
+<php:variable id="10">
+<php:base_variable_with_function_calls id="8">
+<php:base_variable id="7">
+<php:reference_variable id="5">
+<php:compound_variable id="4">
+<php:T_VARIABLE id="3">$rand_name</php:T_VARIABLE>
+</php:compound_variable>
+</php:reference_variable>
+</php:base_variable>
+</php:base_variable_with_function_calls>
+</php:variable>
+<php:CHAR61 id="11">=</php:CHAR61>
+<php:expr id="16">
+<php:expr_without_variable id="15">
+<php:scalar id="14">
+<php:common_scalar id="13">
+<php:T_LNUMBER id="12">1</php:T_LNUMBER>
+</php:common_scalar>
+</php:scalar>
+</php:expr_without_variable>
+</php:expr>
+</php:expr_without_variable>
+</php:expr>
+<php:CHAR59 id="20">;</php:CHAR59>
+</php:unticked_statement>
+</php:statement>
+</php:top_statement>
+</php:top_statement_list>
+<php:ACTION1 id="26">
+</php:ACTION1>
+<php:top_statement id="80">
+<php:statement id="79">
+<php:unticked_statement id="78">
+<php:T_IF id="27">if</php:T_IF>
+<php:CHAR40 id="28">(</php:CHAR40>
+<php:expr id="48">
+<php:expr_without_variable id="47">
+<php:expr id="39">
+<php:r_variable id="38">
+<php:variable id="36">
+<php:base_variable_with_function_calls id="34">
+<php:base_variable id="33">
+<php:reference_variable id="31">
+<php:compound_variable id="30">
+<php:T_VARIABLE id="29">$rand_name</php:T_VARIABLE>
+</php:compound_variable>
+</php:reference_variable>
+</php:base_variable>
+</php:base_variable_with_function_calls>
+</php:variable>
+</php:r_variable>
+</php:expr>
+<php:CHAR62 id="40">&gt;</php:CHAR62>
+<php:expr id="45">
+<php:expr_without_variable id="44">
+<php:scalar id="43">
+<php:common_scalar id="42">
+<php:T_LNUMBER id="41">0</php:T_LNUMBER>
+</php:common_scalar>
+</php:scalar>
+</php:expr_without_variable>
+</php:expr>
+</php:expr_without_variable>
+</php:expr>
+<php:CHAR41 id="49">)</php:CHAR41>
+<php:ACTION3 id="51">
+</php:ACTION3>
+<php:statement id="74">
+<php:unticked_statement id="73">
+<php:CHAR123 id="52">{</php:CHAR123>
+<php:inner_statement_list id="71">
+<php:inner_statement_list id="53">
+</php:inner_statement_list>
+<php:ACTION2 id="55">
+</php:ACTION2>
+<php:inner_statement id="70">
+<php:statement id="69">
+<php:unticked_statement id="68">
+<php:expr id="66">
+<php:r_variable id="65">
+<php:variable id="63">
+<php:base_variable_with_function_calls id="61">
+<php:base_variable id="60">
+<php:reference_variable id="58">
+<php:compound_variable id="57">
+<php:T_VARIABLE id="56">$enter_the_new_statement</php:T_VARIABLE>
+</php:compound_variable>
+</php:reference_variable>
+</php:base_variable>
+</php:base_variable_with_function_calls>
+</php:variable>
+</php:r_variable>
+</php:expr>
+<php:CHAR59 id="67">;</php:CHAR59>
+</php:unticked_statement>
+</php:statement>
+</php:inner_statement>
+</php:inner_statement_list>
+<php:CHAR125 id="72">}</php:CHAR125>
+</php:unticked_statement>
+</php:statement>
+<php:ACTION4 id="75">
+</php:ACTION4>
+<php:elseif_list id="76">
+</php:elseif_list>
+<php:else_single id="77">
+</php:else_single>
+</php:unticked_statement>
+</php:statement>
+</php:top_statement>
+</php:top_statement_list>
+</php:start>
+

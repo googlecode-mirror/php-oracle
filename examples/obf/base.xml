@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<php:start xmlns:php="http://php.net/xsl">
+<php:top_statement_list id="61">
+<php:top_statement_list id="40">
+<php:top_statement_list id="0">
+</php:top_statement_list>
+<php:ACTION1 id="2">
+</php:ACTION1>
+<php:top_statement id="39">
+<php:statement id="38">
+<php:unticked_statement id="37">
+<php:expr id="35">
+<php:expr_without_variable id="34">
+<php:variable id="10">
+<php:base_variable_with_function_calls id="8">
+<php:base_variable id="7">
+<php:reference_variable id="5">
+<php:compound_variable id="4">
+<php:T_VARIABLE id="3">$input</php:T_VARIABLE>
+</php:compound_variable>
+</php:reference_variable>
+</php:base_variable>
+</php:base_variable_with_function_calls>
+</php:variable>
+<php:CHAR61 id="11">=</php:CHAR61>
+<php:expr id="32">
+<php:r_variable id="31">
+<php:variable id="29">
+<php:base_variable_with_function_calls id="27">
+<php:base_variable id="26">
+<php:reference_variable id="24">
+<php:reference_variable id="14">
+<php:compound_variable id="13">
+<php:T_VARIABLE id="12">$_GET</php:T_VARIABLE>
+</php:compound_variable>
+</php:reference_variable>
+<php:CHAR91 id="15">[</php:CHAR91>
+<php:dim_offset id="22">
+<php:expr id="20">
+<php:expr_without_variable id="19">
+<php:scalar id="18">
+<php:common_scalar id="17">
+<php:T_CONSTANT_ENCAPSED_STRING id="16">&apos;parameter&apos;</php:T_CONSTANT_ENCAPSED_STRING>
+</php:common_scalar>
+</php:scalar>
+</php:expr_without_variable>
+</php:expr>
+</php:dim_offset>
+<php:CHAR93 id="23">]</php:CHAR93>
+</php:reference_variable>
+</php:base_variable>
+</php:base_variable_with_function_calls>
+</php:variable>
+</php:r_variable>
+</php:expr>
+</php:expr_without_variable>
+</php:expr>
+<php:CHAR59 id="36">;</php:CHAR59>
+</php:unticked_statement>
+</php:statement>
+</php:top_statement>
+</php:top_statement_list>
+<php:ACTION1 id="42">
+</php:ACTION1>
+<php:top_statement id="60">
+<php:statement id="59">
+<php:unticked_statement id="58">
+<php:T_ECHO id="43">echo</php:T_ECHO>
+<php:echo_expr_list id="56">
+<php:expr id="54">
+<php:r_variable id="53">
+<php:variable id="51">
+<php:base_variable_with_function_calls id="49">
+<php:base_variable id="48">
+<php:reference_variable id="46">
+<php:compound_variable id="45">
+<php:T_VARIABLE id="44">$input</php:T_VARIABLE>
+</php:compound_variable>
+</php:reference_variable>
+</php:base_variable>
+</php:base_variable_with_function_calls>
+</php:variable>
+</php:r_variable>
+</php:expr>
+</php:echo_expr_list>
+<php:CHAR59 id="57">;</php:CHAR59>
+</php:unticked_statement>
+</php:statement>
+</php:top_statement>
+</php:top_statement_list>
+</php:start>
+

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<php:start xmlns:php="http://php.net/xsl">
+<php:top_statement_list id="118">
+<php:top_statement_list id="98">
+<php:top_statement_list id="79">
+<php:top_statement_list id="27">
+<php:top_statement_list id="0">
+</php:top_statement_list>
+<php:ACTION1 id="2">
+</php:ACTION1>
+<php:top_statement id="26">
+<php:function_declaration_statement id="25">
+<php:unticked_function_declaration_statement id="24">
+<php:T_FUNCTION id="3">function</php:T_FUNCTION>
+<php:ACTION29 id="4">
+</php:ACTION29>
+<php:is_reference id="6">
+</php:is_reference>
+<php:T_STRING id="7">foo</php:T_STRING>
+<php:ACTION30 id="8">
+</php:ACTION30>
+<php:CHAR40 id="9">(</php:CHAR40>
+<php:parameter_list id="11">
+</php:parameter_list>
+<php:CHAR41 id="12">)</php:CHAR41>
+<php:CHAR123 id="13">{</php:CHAR123>
+<php:inner_statement_list id="22">
+<php:inner_statement_list id="14">
+</php:inner_statement_list>
+<php:ACTION2 id="16">
+</php:ACTION2>
+<php:inner_statement id="21">
+<php:statement id="20">
+<php:unticked_statement id="19">
+<php:T_RETURN id="17">return</php:T_RETURN>
+<php:CHAR59 id="18">;</php:CHAR59>
+</php:unticked_statement>
+</php:statement>
+</php:inner_statement>
+</php:inner_statement_list>
+<php:CHAR125 id="23">}</php:CHAR125>
+</php:unticked_function_declaration_statement>
+</php:function_declaration_statement>
+</php:top_statement>
+</php:top_statement_list>
+<php:ACTION1 id="29">
+</php:ACTION1>
+<php:top_statement id="78">
+<php:function_declaration_statement id="77">
+<php:unticked_function_declaration_statement id="76">
+<php:T_FUNCTION id="30">function</php:T_FUNCTION>
+<php:ACTION29 id="31">
+</php:ACTION29>
+<php:is_reference id="33">
+</php:is_reference>
+<php:T_STRING id="34">bar</php:T_STRING>
+<php:ACTION30 id="35">
+</php:ACTION30>
+<php:CHAR40 id="36">(</php:CHAR40>
+<php:parameter_list id="55">
+<php:non_empty_parameter_list id="53">
+<php:non_empty_parameter_list id="47">
+<php:non_empty_parameter_list id="41">
+<php:optional_class_type id="38">
+</php:optional_class_type>
+<php:T_VARIABLE id="39">$string1</php:T_VARIABLE>
+</php:non_empty_parameter_list>
+<php:CHAR44 id="42">,</php:CHAR44>
+<php:optional_class_type id="44">
+</php:optional_class_type>
+<php:T_VARIABLE id="45">$string2</php:T_VARIABLE>
+</php:non_empty_parameter_list>
+<php:CHAR44 id="48">,</php:CHAR44>
+<php:optional_class_type id="50">
+</php:optional_class_type>
+<php:T_VARIABLE id="51">$bah</php:T_VARIABLE>
+</php:non_empty_parameter_list>
+</php:parameter_list>
+<php:CHAR41 id="56">)</php:CHAR41>
+<php:CHAR123 id="57">{</php:CHAR123>
+<php:inner_statement_list id="74">
+<php:inner_statement_list id="58">
+</php:inner_statement_list>
+<php:ACTION2 id="60">
+</php:ACTION2>
+<php:inner_statement id="73">
+<php:statement id="72">
+<php:unticked_statement id="71">
+<php:T_RETURN id="61">return</php:T_RETURN>
+<php:variable id="69">
+<php:base_variable_with_function_calls id="67">
+<php:base_variable id="66">
+<php:reference_variable id="64">
+<php:compound_variable id="63">
+<php:T_VARIABLE id="62">$string1</php:T_VARIABLE>
+</php:compound_variable>
+</php:reference_variable>
+</php:base_variable>
+</php:base_variable_with_function_calls>
+</php:variable>
+<php:CHAR59 id="70">;</php:CHAR59>
+</php:unticked_statement>
+</php:statement>
+</php:inner_statement>
+</php:inner_statement_list>
+<php:CHAR125 id="75">}</php:CHAR125>
+</php:unticked_function_declaration_statement>
+</php:function_declaration_statement>
+</php:top_statement>
+</php:top_statement_list>
+<php:ACTION1 id="81">
+</php:ACTION1>
+<php:top_statement id="97">
+<php:function_declaration_statement id="96">
+<php:unticked_function_declaration_statement id="95">
+<php:T_FUNCTION id="82">function</php:T_FUNCTION>
+<php:ACTION29 id="83">
+</php:ACTION29>
+<php:is_reference id="85">
+</php:is_reference>
+<php:T_STRING id="86">kidoo</php:T_STRING>
+<php:ACTION30 id="87">
+</php:ACTION30>
+<php:CHAR40 id="88">(</php:CHAR40>
+<php:parameter_list id="90">
+</php:parameter_list>
+<php:CHAR41 id="91">)</php:CHAR41>
+<php:CHAR123 id="92">{</php:CHAR123>
+<php:inner_statement_list id="93">
+</php:inner_statement_list>
+<php:CHAR125 id="94">}</php:CHAR125>
+</php:unticked_function_declaration_statement>
+</php:function_declaration_statement>
+</php:top_statement>
+</php:top_statement_list>
+<php:ACTION1 id="100">
+</php:ACTION1>
+<php:top_statement id="117">
+<php:statement id="116">
+<php:unticked_statement id="115">
+<php:expr id="113">
+<php:r_variable id="112">
+<php:variable id="110">
+<php:base_variable_with_function_calls id="108">
+<php:function_call id="107">
+<php:T_STRING id="101">kidoo</php:T_STRING>
+<php:CHAR40 id="102">(</php:CHAR40>
+<php:ACTION49 id="103">
+</php:ACTION49>
+<php:function_call_parameter_list id="105">
+</php:function_call_parameter_list>
+<php:CHAR41 id="106">)</php:CHAR41>
+</php:function_call>
+</php:base_variable_with_function_calls>
+</php:variable>
+</php:r_variable>
+</php:expr>
+<php:CHAR59 id="114">;</php:CHAR59>
+</php:unticked_statement>
+</php:statement>
+</php:top_statement>
+</php:top_statement_list>
+</php:start>
+

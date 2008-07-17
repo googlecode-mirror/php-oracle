@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<php:start xmlns:php="http://php.net/xsl">
+<php:top_statement_list id="72">
+<php:top_statement_list id="42">
+<php:top_statement_list id="0">
+</php:top_statement_list>
+<php:ACTION1 id="2">
+</php:ACTION1>
+<php:top_statement id="41">
+<php:function_declaration_statement id="40">
+<php:unticked_function_declaration_statement id="39">
+<php:T_FUNCTION id="3">function</php:T_FUNCTION>
+<php:ACTION29 id="4">
+</php:ACTION29>
+<php:is_reference id="6">
+</php:is_reference>
+<php:T_STRING id="7">rand_func_name</php:T_STRING>
+<php:ACTION30 id="8">
+</php:ACTION30>
+<php:CHAR40 id="9">(</php:CHAR40>
+<php:parameter_list id="16">
+<php:non_empty_parameter_list id="14">
+<php:optional_class_type id="11">
+</php:optional_class_type>
+<php:T_VARIABLE id="12">$param_i</php:T_VARIABLE>
+</php:non_empty_parameter_list>
+</php:parameter_list>
+<php:CHAR41 id="17">)</php:CHAR41>
+<php:CHAR123 id="18">{</php:CHAR123>
+<php:inner_statement_list id="37">
+<php:inner_statement_list id="19">
+</php:inner_statement_list>
+<php:ACTION2 id="21">
+</php:ACTION2>
+<php:inner_statement id="36">
+<php:statement id="35">
+<php:unticked_statement id="34">
+<php:expr id="32">
+<php:r_variable id="31">
+<php:variable id="29">
+<php:base_variable_with_function_calls id="27">
+<php:base_variable id="26">
+<php:reference_variable id="24">
+<php:compound_variable id="23">
+<php:T_VARIABLE id="22">$enter_the_new_statement</php:T_VARIABLE>
+</php:compound_variable>
+</php:reference_variable>
+</php:base_variable>
+</php:base_variable_with_function_calls>
+</php:variable>
+</php:r_variable>
+</php:expr>
+<php:CHAR59 id="33">;</php:CHAR59>
+</php:unticked_statement>
+</php:statement>
+</php:inner_statement>
+</php:inner_statement_list>
+<php:CHAR125 id="38">}</php:CHAR125>
+</php:unticked_function_declaration_statement>
+</php:function_declaration_statement>
+</php:top_statement>
+</php:top_statement_list>
+<php:ACTION1 id="44">
+</php:ACTION1>
+<php:top_statement id="71">
+<php:statement id="70">
+<php:unticked_statement id="69">
+<php:expr id="67">
+<php:r_variable id="66">
+<php:variable id="64">
+<php:base_variable_with_function_calls id="62">
+<php:function_call id="61">
+<php:T_STRING id="45">rand_func_name</php:T_STRING>
+<php:CHAR40 id="46">(</php:CHAR40>
+<php:ACTION49 id="47">
+</php:ACTION49>
+<php:function_call_parameter_list id="59">
+<php:non_empty_function_call_parameter_list id="57">
+<php:variable id="55">
+<php:base_variable_with_function_calls id="53">
+<php:base_variable id="52">
+<php:reference_variable id="50">
+<php:compound_variable id="49">
+<php:T_VARIABLE id="48">$param_i</php:T_VARIABLE>
+</php:compound_variable>
+</php:reference_variable>
+</php:base_variable>
+</php:base_variable_with_function_calls>
+</php:variable>
+</php:non_empty_function_call_parameter_list>
+</php:function_call_parameter_list>
+<php:CHAR41 id="60">)</php:CHAR41>
+</php:function_call>
+</php:base_variable_with_function_calls>
+</php:variable>
+</php:r_variable>
+</php:expr>
+<php:CHAR59 id="68">;</php:CHAR59>
+</php:unticked_statement>
+</php:statement>
+</php:top_statement>
+</php:top_statement_list>
+</php:start>
+

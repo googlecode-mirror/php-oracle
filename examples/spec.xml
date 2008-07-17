@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<php:start xmlns:php="http://php.net/xsl">
+<php:top_statement_list id="66">
+<php:top_statement_list id="50">
+<php:top_statement_list id="33">
+<php:top_statement_list id="15">
+<php:top_statement_list id="0">
+</php:top_statement_list>
+<php:ACTION1 id="2">
+</php:ACTION1>
+<php:top_statement id="14">
+<php:statement id="13">
+<php:unticked_statement id="12">
+<php:T_ECHO id="3">echo</php:T_ECHO>
+<php:echo_expr_list id="10">
+<php:expr id="8">
+<php:expr_without_variable id="7">
+<php:scalar id="6">
+<php:common_scalar id="5">
+<php:T_CONSTANT_ENCAPSED_STRING id="4">&quot;foo&quot;</php:T_CONSTANT_ENCAPSED_STRING>
+</php:common_scalar>
+</php:scalar>
+</php:expr_without_variable>
+</php:expr>
+</php:echo_expr_list>
+<php:CHAR59 id="11">;</php:CHAR59>
+</php:unticked_statement>
+</php:statement>
+</php:top_statement>
+</php:top_statement_list>
+<php:ACTION1 id="17">
+</php:ACTION1>
+<php:top_statement id="32">
+<php:statement id="31">
+<php:unticked_statement id="30">
+<php:expr id="28">
+<php:expr_without_variable id="27">
+<php:T_EXIT id="18">die</php:T_EXIT>
+<php:exit_expr id="26">
+<php:CHAR40 id="19">(</php:CHAR40>
+<php:expr id="24">
+<php:expr_without_variable id="23">
+<php:scalar id="22">
+<php:common_scalar id="21">
+<php:T_CONSTANT_ENCAPSED_STRING id="20">&quot;plop&quot;</php:T_CONSTANT_ENCAPSED_STRING>
+</php:common_scalar>
+</php:scalar>
+</php:expr_without_variable>
+</php:expr>
+<php:CHAR41 id="25">)</php:CHAR41>
+</php:exit_expr>
+</php:expr_without_variable>
+</php:expr>
+<php:CHAR59 id="29">;</php:CHAR59>
+</php:unticked_statement>
+</php:statement>
+</php:top_statement>
+</php:top_statement_list>
+<php:ACTION1 id="35">
+</php:ACTION1>
+<php:top_statement id="49">
+<php:statement id="48">
+<php:unticked_statement id="47">
+<php:expr id="45">
+<php:expr_without_variable id="44">
+<php:internal_functions_in_yacc id="43">
+<php:T_INCLUDE id="36">include</php:T_INCLUDE>
+<php:expr id="41">
+<php:expr_without_variable id="40">
+<php:scalar id="39">
+<php:common_scalar id="38">
+<php:T_CONSTANT_ENCAPSED_STRING id="37">&quot;foo&quot;</php:T_CONSTANT_ENCAPSED_STRING>
+</php:common_scalar>
+</php:scalar>
+</php:expr_without_variable>
+</php:expr>
+</php:internal_functions_in_yacc>
+</php:expr_without_variable>
+</php:expr>
+<php:CHAR59 id="46">;</php:CHAR59>
+</php:unticked_statement>
+</php:statement>
+</php:top_statement>
+</php:top_statement_list>
+<php:ACTION1 id="52">
+</php:ACTION1>
+<php:top_statement id="65">
+<php:statement id="64">
+<php:unticked_statement id="63">
+<php:expr id="61">
+<php:expr_without_variable id="60">
+<php:T_PRINT id="53">print</php:T_PRINT>
+<php:expr id="58">
+<php:expr_without_variable id="57">
+<php:scalar id="56">
+<php:common_scalar id="55">
+<php:T_CONSTANT_ENCAPSED_STRING id="54">&quot;foo&quot;</php:T_CONSTANT_ENCAPSED_STRING>
+</php:common_scalar>
+</php:scalar>
+</php:expr_without_variable>
+</php:expr>
+</php:expr_without_variable>
+</php:expr>
+<php:CHAR59 id="62">;</php:CHAR59>
+</php:unticked_statement>
+</php:statement>
+</php:top_statement>
+</php:top_statement_list>
+</php:start>
+

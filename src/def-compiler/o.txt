@@ -1,0 +1,34 @@
+# source definition:
+unvalidated input go to sink in html context
+# parse tree:
+2 possiblities
+##
+  02NP[('Adjective', 'unvalidated'), ('Noun', 'input')][]
+      23VP[('Verb', 'go')][]
+        45NP[('Noun', 'sink')][]
+       ('Preposition', 'to')
+      35PP[]
+     
+    25VP[]
+      68NP[('Name', 'html'), ('Noun', 'context')][]
+     ('Preposition', 'in')
+    58PP[]
+   
+  28VP[]
+ 
+08S[]
+##
+  02NP[('Adjective', 'unvalidated'), ('Noun', 'input')][]
+    23VP[('Verb', 'go')][]
+        45NP[('Noun', 'sink')][]
+          68NP[('Name', 'html'), ('Noun', 'context')][]
+         ('Preposition', 'in')
+        58PP[]
+       
+      48NP[]
+     ('Preposition', 'to')
+    38PP[]
+   
+  28VP[]
+ 
+08S[]

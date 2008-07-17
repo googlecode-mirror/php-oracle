@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<php:start xmlns:php="http://php.net/xsl">
+<php:top_statement_list id="101">
+<php:top_statement_list id="0">
+</php:top_statement_list>
+<php:ACTION1 id="2">
+</php:ACTION1>
+<php:top_statement id="100">
+<php:statement id="99">
+<php:unticked_statement id="98">
+<php:T_FOR id="3">for</php:T_FOR>
+<php:CHAR40 id="4">(</php:CHAR40>
+<php:for_expr id="25">
+<php:non_empty_for_expr id="23">
+<php:expr id="21">
+<php:expr_without_variable id="20">
+<php:variable id="12">
+<php:base_variable_with_function_calls id="10">
+<php:base_variable id="9">
+<php:reference_variable id="7">
+<php:compound_variable id="6">
+<php:T_VARIABLE id="5">$rand_name</php:T_VARIABLE>
+</php:compound_variable>
+</php:reference_variable>
+</php:base_variable>
+</php:base_variable_with_function_calls>
+</php:variable>
+<php:CHAR61 id="13">=</php:CHAR61>
+<php:expr id="18">
+<php:expr_without_variable id="17">
+<php:scalar id="16">
+<php:common_scalar id="15">
+<php:T_LNUMBER id="14">0</php:T_LNUMBER>
+</php:common_scalar>
+</php:scalar>
+</php:expr_without_variable>
+</php:expr>
+</php:expr_without_variable>
+</php:expr>
+</php:non_empty_for_expr>
+</php:for_expr>
+<php:CHAR59 id="26">;</php:CHAR59>
+<php:ACTION11 id="27">
+</php:ACTION11>
+<php:for_expr id="51">
+<php:non_empty_for_expr id="49">
+<php:expr id="47">
+<php:expr_without_variable id="46">
+<php:expr id="38">
+<php:r_variable id="37">
+<php:variable id="35">
+<php:base_variable_with_function_calls id="33">
+<php:base_variable id="32">
+<php:reference_variable id="30">
+<php:compound_variable id="29">
+<php:T_VARIABLE id="28">$rand_name</php:T_VARIABLE>
+</php:compound_variable>
+</php:reference_variable>
+</php:base_variable>
+</php:base_variable_with_function_calls>
+</php:variable>
+</php:r_variable>
+</php:expr>
+<php:CHAR60 id="39">&lt;</php:CHAR60>
+<php:expr id="44">
+<php:expr_without_variable id="43">
+<php:scalar id="42">
+<php:common_scalar id="41">
+<php:T_LNUMBER id="40">1</php:T_LNUMBER>
+</php:common_scalar>
+</php:scalar>
+</php:expr_without_variable>
+</php:expr>
+</php:expr_without_variable>
+</php:expr>
+</php:non_empty_for_expr>
+</php:for_expr>
+<php:CHAR59 id="52">;</php:CHAR59>
+<php:ACTION12 id="53">
+</php:ACTION12>
+<php:for_expr id="71">
+<php:non_empty_for_expr id="69">
+<php:expr id="67">
+<php:expr_without_variable id="66">
+<php:rw_variable id="64">
+<php:variable id="61">
+<php:base_variable_with_function_calls id="59">
+<php:base_variable id="58">
+<php:reference_variable id="56">
+<php:compound_variable id="55">
+<php:T_VARIABLE id="54">$rand_name</php:T_VARIABLE>
+</php:compound_variable>
+</php:reference_variable>
+</php:base_variable>
+</php:base_variable_with_function_calls>
+</php:variable>
+<php:ACTION56 id="63">
+</php:ACTION56>
+</php:rw_variable>
+<php:T_INC id="65">++</php:T_INC>
+</php:expr_without_variable>
+</php:expr>
+</php:non_empty_for_expr>
+</php:for_expr>
+<php:CHAR41 id="72">)</php:CHAR41>
+<php:ACTION13 id="73">
+</php:ACTION13>
+<php:for_statement id="97">
+<php:statement id="96">
+<php:unticked_statement id="95">
+<php:CHAR123 id="74">{</php:CHAR123>
+<php:inner_statement_list id="93">
+<php:inner_statement_list id="75">
+</php:inner_statement_list>
+<php:ACTION2 id="77">
+</php:ACTION2>
+<php:inner_statement id="92">
+<php:statement id="91">
+<php:unticked_statement id="90">
+<php:expr id="88">
+<php:r_variable id="87">
+<php:variable id="85">
+<php:base_variable_with_function_calls id="83">
+<php:base_variable id="82">
+<php:reference_variable id="80">
+<php:compound_variable id="79">
+<php:T_VARIABLE id="78">$enter_the_new_statement</php:T_VARIABLE>
+</php:compound_variable>
+</php:reference_variable>
+</php:base_variable>
+</php:base_variable_with_function_calls>
+</php:variable>
+</php:r_variable>
+</php:expr>
+<php:CHAR59 id="89">;</php:CHAR59>
+</php:unticked_statement>
+</php:statement>
+</php:inner_statement>
+</php:inner_statement_list>
+<php:CHAR125 id="94">}</php:CHAR125>
+</php:unticked_statement>
+</php:statement>
+</php:for_statement>
+</php:unticked_statement>
+</php:statement>
+</php:top_statement>
+</php:top_statement_list>
+</php:start>
+

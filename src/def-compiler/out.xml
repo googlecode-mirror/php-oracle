@@ -1,0 +1,118 @@
+<g>
+ <token>
+  <token>
+   <token>
+    <token>
+     <token>
+      <token>
+       <content type='Verb'>use</content>
+      </token>
+      <token>
+      </token>
+     </token>
+     <token>
+      <token>
+       <content type='Adjective'>unvalidated</content>
+       <content type='Noun'>path</content>
+      </token>
+      <token>
+      </token>
+     </token>
+    </token>
+    <token>
+    </token>
+   </token>
+   <token>
+    <token>
+     <content type='Preposition'>to</content>
+     <token>
+      <token>
+       <token>
+        <token>
+         <content type='Verb'>access</content>
+        </token>
+        <token>
+        </token>
+       </token>
+       <token>
+        <token>
+         <content type='Article'>a</content>
+         <content type='Noun'>file</content>
+        </token>
+        <token>
+        </token>
+       </token>
+      </token>
+      <token>
+      </token>
+     </token>
+    </token>
+    <token>
+    </token>
+   </token>
+  </token>
+  <token>
+  </token>
+ </token>
+ <token>
+  <token>
+   <token>
+    <token>
+     <token>
+      <token>
+       <token>
+        <token>
+         <content type='Verb'>use</content>
+        </token>
+        <token>
+        </token>
+       </token>
+       <content type='Adjective'>unvalidated</content>
+      </token>
+      <token>
+      </token>
+     </token>
+     <token>
+      <token>
+       <content type='Noun'>path</content>
+      </token>
+      <token>
+      </token>
+     </token>
+    </token>
+    <token>
+    </token>
+   </token>
+   <token>
+    <token>
+     <content type='Preposition'>to</content>
+     <token>
+      <token>
+       <token>
+        <token>
+         <content type='Verb'>access</content>
+        </token>
+        <token>
+        </token>
+       </token>
+       <token>
+        <token>
+         <content type='Article'>a</content>
+         <content type='Noun'>file</content>
+        </token>
+        <token>
+        </token>
+       </token>
+      </token>
+      <token>
+      </token>
+     </token>
+    </token>
+    <token>
+    </token>
+   </token>
+  </token>
+  <token>
+  </token>
+ </token>
+</g>
